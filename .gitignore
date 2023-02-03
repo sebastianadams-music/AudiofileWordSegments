@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# media files
+SAVED/
+segments_out/
+segments_in/
+goldenratio.mp4
+
+
 # Distribution / packaging
 .Python
 build/
